@@ -1,0 +1,97 @@
+.wrapper {
+    height: 150px;
+    width: 500px;
+    color: red;
+    text-align: center;
+    border-style: dotted;
+    border-width: 3px;
+    margin: 10px 10px 10px 10px;
+}
+
+
+.container {
+    background-color: pink;
+    margin: 10px;
+
+}
+
+
+
+.Instructions {
+    text-align: left;
+    color: #6B8E23;
+    margin: 10px 10px 10px 10px;
+    /* border-style: solid;
+    border-width: medium; */
+    /* background-color: red; */
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold
+}
+
+#CG {
+    padding: 30px 
+}
+
+.body {
+    margin: 960px;
+    border-style: solid;
+    border-width: medium;
+    background-color: red
+}
+
+#random {
+    border: solid;
+    width: 300px;
+    height: 150px;
+    background-color: lightblue;
+    padding: 10px; 
+    margin: 10px;
+    /* float: right */
+    /* text-align: center */
+}
+
+#totalScore {
+    border: solid;
+    width: 500px;
+    height: 50px;
+    background-color: coral;
+    padding: 10px;
+    margin: 10px
+}
+
+#score {
+    border: solid;
+    width: 300px;
+    height: 150px;
+    background-color: coral;
+    padding: 10px;
+    margin: 10px;
+}
+
+#winsLosses {
+    border: solid;
+    width: 300px;
+    height: 150px;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    /* float: right */
+}
+
+.wrapper-1 {
+    /* height: 150px; */
+    width: 800px;
+    /* color: red; */
+    text-align: center;
+    border-style: dotted;
+    border-width: 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+
+.berries {
+    width: 150px;
+    height: 150px;
+    border: solid
+}
